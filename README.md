@@ -7,4 +7,6 @@ __How to Use It__
 <p>TThis script is straightforward and only requires the installation of `requests` version 2.31. To simplify the installation process, a `requirements.txt` file is provided. You can install the required dependencies by running the following command in your terminal:
 
 ```bash
-pip install -r requirements.txt</p>
+pip install -r requirements.txt
+```
+When all dependencies have been installed, you can run the code from the random_anime_poster_generator.py, and the anime title and poster link will be printed into the results_file.txt</p>
